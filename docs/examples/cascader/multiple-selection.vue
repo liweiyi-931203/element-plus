@@ -93,7 +93,7 @@ export default defineComponent({
               children: [
                 { value: 29, label: 'Toronto' },
                 { value: 30, label: 'Montreal' },
-                { value: 31, label: 'Ottawa' },
+                { value: 31, label: 'Ottawaa' },
               ],
             },
           ],
