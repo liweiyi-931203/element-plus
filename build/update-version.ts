@@ -1,7 +1,5 @@
-import path from 'path'
 import fs from 'fs'
-import chalk from 'chalk'
-import { epPackage, epRoot } from './paths'
+import { epPackage } from './paths'
 import { cyan, red, yellow, green } from './utils'
 
 const tagVersion = process.env.TAG_VERSION
